@@ -1,0 +1,52 @@
+# ActualCode .gitignore
+
+# Environment and Secrets
+.env
+.env.local
+*.key.json
+*-credentials.json
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Logs and temporary files
+*.log
+test_output.log
+*.txt.bak
+DETAILED_RUN_*.txt
+FULL_AGENT_LOGS_*.txt
+assessment_*.json
+complete_pipeline_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+proof_test.json
+agent_test_output.json
+
+# Node modules (if any)
+node_modules/
+package-lock.json
+
+# Distribution
+dist/
+build/
+*.egg-info/

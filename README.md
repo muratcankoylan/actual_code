@@ -1,6 +1,6 @@
 # 🎯 ActualCode - AI-Powered Code Assessment Generator
 
-[![Watch this demo](https://img.youtube.com/vi/jnIFJ8-syio/0.jpg)](https://www.youtube.com/watch?v=jnIFJ8-syio)
+[![Watch this demo](https://www.youtube.com/watch?v=jnIFJ8-syio)
 
 **Transform GitHub repositories into realistic coding challenges using multi-agent AI**
 

@@ -14,7 +14,7 @@ Technical details: https://github.com/muratcankoylan/actual_code/blob/main/Actua
 
 ## 🌟 Overview
 
-ActualCode is a revolutionary code assessment platform that analyzes **real GitHub repositories** and generates **personalized, realistic coding challenges** using a **7-agent AI architecture** powered by Google's Gemini models and the A2A (Agent-to-Agent) protocol.
+ActualCode is a code assessment platform that analyzes **real GitHub repositories** and generates **personalized, realistic coding challenges** using a **7-agent AI architecture** powered by Google's Gemini models and the A2A (Agent-to-Agent) protocol.
 
 ### The Problem We Solve
 
